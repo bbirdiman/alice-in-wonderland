@@ -1104,8 +1104,8 @@ Alice folded her hands, and began:--
 
  .
 
- [Father William standing on head.]
- http://z-m-l.com/go/alice/william_standing.png
+ ![Father William standing on head.]
+ (http://z-m-l.com/go/alice/william_standing.png)
 
  -*-
 
@@ -1124,8 +1124,8 @@ Alice folded her hands, and began:--
 
  .
 
- [Father William somersaulting in the door.]
- http://z-m-l.com/go/alice/william_somersaulting.png
+ ![Father William somersaulting in the door.]
+ (http://z-m-l.com/go/alice/william_somersaulting.png)
 
  -*-
 
@@ -1143,8 +1143,8 @@ Alice folded her hands, and began:--
 
  .
 
- [Father William having eaten the goose.]
- http://z-m-l.com/go/alice/william_having.png
+ ![Father William having eaten the goose.]
+ (http://z-m-l.com/go/alice/william_having.png)
 
  -*-
 
@@ -1162,8 +1162,8 @@ Alice folded her hands, and began:--
 
  .
 
- [Father William balancing eel on nose.]
- http://z-m-l.com/go/alice/william_balancing.png
+ ![Father William balancing eel on nose.]
+ (http://z-m-l.com/go/alice/william_balancing.png)
 
  -*-
 
