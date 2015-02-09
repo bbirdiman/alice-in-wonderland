@@ -282,7 +282,7 @@ to one's own feet! And how odd the directions will look!
 Oh dear, what nonsense I'm talking!"
 
  [Alice stretched tall.]
- http://z-m-l.com/go/alice/stretched_tall.png
+ (http://z-m-l.com/go/alice/stretched_tall.png)
 
 Just then her head struck against the roof of the hall: in fact she was
 now more than nine feet high, and she at once took up the little golden
@@ -310,7 +310,7 @@ violently, dropped the white kid gloves and the fan, and skurried away
 into the darkness as hard as he could go.
 
  [Giant Alice watching Rabbit run away.]
- http://z-m-l.com/go/alice/alice_watching.png
+ (http://z-m-l.com/go/alice/alice_watching.png)
 
 Alice took up the fan and gloves, and, as the hall was very hot, she kept
 fanning herself all the time she went on talking: "Dear, dear! How queer
