@@ -169,8 +169,8 @@ a telescope! I think I could, if I only know how to begin." For, you see,
 so many out-of-the-way things had happened lately, that Alice had begun to
 think that very few things indeed were really impossible.
 
- [Alice finding tiny door behind curtain.]
- http://z-m-l.com/go/alice/tiny_door.png
+ ![Alice finding tiny door behind curtain.]
+ (http://z-m-l.com/go/alice/tiny_door.png)
 
 There seemed to be no use in waiting by the little door, so she went back
 to the table, half hoping she might find another key on it, or at any rate
@@ -179,8 +179,8 @@ found a little bottle on it, ("which certainly was not here before," said
 Alice,) and round the neck of the bottle was a paper label, with the words
 _'Drink_ _me'_ beautifully printed on it in large letters.
 
- [Alice taking "Drink me" bottle.]
- http://z-m-l.com/go/alice/alice_taking.png
+! [Alice taking "Drink me" bottle.]
+ (http://z-m-l.com/go/alice/alice_taking.png)
 
 It was all very well to say "Drink me," but the wise little Alice was not
 going to do _that_ in a hurry. "No, I'll look first," she said, "and see
