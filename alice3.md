@@ -179,7 +179,7 @@ found a little bottle on it, ("which certainly was not here before," said
 Alice,) and round the neck of the bottle was a paper label, with the words
 _'Drink_ _me'_ beautifully printed on it in large letters.
 
-! [Alice taking "Drink me" bottle.]
+ ![Alice taking "Drink me" bottle.]
  (http://z-m-l.com/go/alice/alice_taking.png)
 
 It was all very well to say "Drink me," but the wise little Alice was not
@@ -595,8 +595,8 @@ that she did not dare to laugh; and, as she could not think of anything to
 say, she simply bowed, and took the thimble, looking as solemn as she
 could.
 
- [Dodo presenting thimble to Alice.]
- http://z-m-l.com/go/alice/dodo_presenting.png
+ ![Dodo presenting thimble to Alice.]
+ (http://z-m-l.com/go/alice/dodo_presenting.png)
 
 The next thing was to eat the comfits: this caused some noise and
 confusion, as the large birds complained that they could not taste theirs,
@@ -686,8 +686,8 @@ you know!"
 
 The Mouse only growled in reply.
 
- [Mouse telling story to birds and Alice.]
- http://z-m-l.com/go/alice/mouse_telling.png
+ ![Mouse telling story to birds and Alice.]
+ (http://z-m-l.com/go/alice/mouse_telling.png)
 
 "Please come back and finish your story!" Alice called after it; and the
 others all joined in chorus, "Yes, please do!" but the Mouse only shook
@@ -811,8 +811,8 @@ There ought to be a book written about me, that there ought! And when I
 grow up, I'll write one -- but I'm grown up now," she added in a sorrowful
 tone; "at least there's no room to grow up any more _here."_ 
 
- [Alice cramped in Rabbit's house.]
- http://z-m-l.com/go/alice/alice_cramped.png
+ ![Alice cramped in Rabbit's house.]
+ (http://z-m-l.com/go/alice/alice_cramped.png)
 
 "But then," thought Alice, "shall I _never_ get any older than I am now?
 That'll be a comfort, one way -- never to be an old woman -- but then --
