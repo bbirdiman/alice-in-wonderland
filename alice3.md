@@ -281,7 +281,7 @@ to one's own feet! And how odd the directions will look!
 
 Oh dear, what nonsense I'm talking!"
 
- [Alice stretched tall.]
+ ![Alice stretched tall.]
  (http://z-m-l.com/go/alice/stretched_tall.png)
 
 Just then her head struck against the roof of the hall: in fact she was
@@ -309,7 +309,7 @@ began, in a low, timid voice, "If you please, sir--" The Rabbit started
 violently, dropped the white kid gloves and the fan, and skurried away
 into the darkness as hard as he could go.
 
- [Giant Alice watching Rabbit run away.]
+ ![Giant Alice watching Rabbit run away.]
  (http://z-m-l.com/go/alice/alice_watching.png)
 
 Alice took up the fan and gloves, and, as the hall was very hot, she kept
@@ -388,8 +388,8 @@ digging in the sand with wooden spades, then a row of lodging houses, and
 behind them a railway station.) However, she soon made out that she was in
 the pool of tears which she had wept when she was nine feet high.
 
- [Alice swimming in the pool of tears.]
- http://z-m-l.com/go/alice/alice_swimming.png
+ ![Alice swimming in the pool of tears.]
+ (http://z-m-l.com/go/alice/alice_swimming.png)
 
 "I wish I hadn't cried so much!" said Alice, as she swam about, trying
 to find her way out. "I shall be punished for it now, I suppose, by being
@@ -453,8 +453,8 @@ afraid I've offended it again!" For the Mouse was swimming away from her
 as hard as it could go, and making quite a commotion in the pool as it
 went.
 
- [Alice and the Mouse swimming in the pool of tears.]
- http://z-m-l.com/go/alice/mouse_swimming.png
+ ![Alice and the Mouse swimming in the pool of tears.]
+ (http://z-m-l.com/go/alice/mouse_swimming.png)
 
 So she called softly after it, "Mouse dear! Do come back again, and we
 won't talk about cats or dogs either, if you don't like them!" When the
